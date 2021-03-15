@@ -1,0 +1,4 @@
+SWD Breakout for Programmers such as the Segger J-link Mini EDU. 2x5 0.05(1.27mm) header, supports THT and SMD programming headers, with or without key shroud.
+
+Breadboard friendly, with 2.54mm(0.1) pin breakouts.
+
